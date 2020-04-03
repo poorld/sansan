@@ -1,0 +1,789 @@
+[<ul class="list-unstyled question" id="question1">
+    <li class="question_title">
+        <font color="#006600">[单项选择题]</font>
+        <strong> 第 1 题 、</strong>
+        实践是认识的来源表明
+    </li>
+    <label>
+        <li class="question_info" id="item0">
+            <input class="a-radio" name="q_list[2771]" type="radio" value="A"/>
+            <span class="b-radio"></span> A．只要参加实践活动就能获得正确认识
+        </li>
+    </label>
+
+    <label>
+    <li class="question_info" id="item0">
+    <input class="a-radio" name="q_list[2771]" type="radio" value="B"/>
+    <span class="b-radio"></span> B．每个人的认识都直接来源于实践
+                            </li>
+    </label>
+<label>
+<li class="question_info" id="item0">
+<input class="a-radio" name="q_list[2771]" type="radio" value="C"/>
+<span class="b-radio"></span> C．一切认识归根到底都是从实践中获得的
+                        </li>
+</label>
+<label>
+<li class="question_info" id="item0">
+<input class="a-radio" name="q_list[2771]" type="radio" value="D"/>
+<span class="b-radio"></span> D．书本上的知识不是从实践中得来的
+                        </li>
+</label>
+<div style="font-size: 18px;">
+                        您已选 C                        <span class="text-success"> √ 正确</span>
+</div>
+</ul>, <ul class="list-unstyled question" id="question2">
+<li class="question_title"><font color="#006600">[单项选择题]</font>
+<strong> 第 2 题 、</strong>辩证唯物主义认为，认识的本质是                    </li>
+<label>
+<li class="question_info" id="item1">
+<input class="a-radio" name="q_list[2774]" type="radio" value="A"/>
+<span class="b-radio"></span> A.主体对客体的能动反映
+                        </li>
+</label>
+<label>
+<li class="question_info" id="item1">
+<input class="a-radio" name="q_list[2774]" type="radio" value="B"/>
+<span class="b-radio"></span> B.主体对客体的直观反映
+                        </li>
+</label>
+<label>
+<li class="question_info" id="item1">
+<input class="a-radio" name="q_list[2774]" type="radio" value="C"/>
+<span class="b-radio"></span> C.主体头脑中固有的    
+                        </li>
+</label>
+<label>
+<li class="question_info" id="item1">
+<input class="a-radio" name="q_list[2774]" type="radio" value="D"/>
+<span class="b-radio"></span> D.绝对观念在头脑中的显现
+                        </li>
+</label>
+<div style="font-size: 18px;">
+                        您已选 A                        <span class="text-success"> √ 正确</span>
+</div>
+</ul>, <ul class="list-unstyled question" id="question3">
+<li class="question_title"><font color="#006600">[单项选择题]</font>
+<strong> 第 3 题 、</strong>理性认识的特点是                    </li>
+<label>
+<li class="question_info" id="item2">
+<input class="a-radio" name="q_list[2776]" type="radio" value="A"/>
+<span class="b-radio"></span> A.对感性认识的综合
+                        </li>
+</label>
+<label>
+<li class="question_info" id="item2">
+<input class="a-radio" name="q_list[2776]" type="radio" value="B"/>
+<span class="b-radio"></span> B.与客观事物无关的人的自由创造
+                        </li>
+</label>
+<label>
+<li class="question_info" id="item2">
+<input class="a-radio" name="q_list[2776]" type="radio" value="C"/>
+<span class="b-radio"></span> C.通过感觉器官对客观事物的直接把握
+                        </li>
+</label>
+<label>
+<li class="question_info" id="item2">
+<input class="a-radio" name="q_list[2776]" type="radio" value="D"/>
+<span class="b-radio"></span> D.借助于抽象思维达到对事物本质的把握
+                        </li>
+</label>
+<div style="font-size: 18px;">
+                        您已选 D                        <span class="text-success"> √ 正确</span>
+</div>
+</ul>, <ul class="list-unstyled question" id="question4">
+<li class="question_title"><font color="#006600">[单项选择题]</font>
+<strong> 第 4 题 、</strong>两条根本对立的认识路线是                    </li>
+<label>
+<li class="question_info" id="item3">
+<input class="a-radio" name="q_list[2780]" type="radio" value="A"/>
+<span class="b-radio"></span> A.可知论与不可知论的对立              
+                        </li>
+</label>
+<label>
+<li class="question_info" id="item3">
+<input class="a-radio" name="q_list[2780]" type="radio" value="B"/>
+<span class="b-radio"></span> B.唯物辩证法与形而上学的对立
+                        </li>
+</label>
+<label>
+<li class="question_info" id="item3">
+<input class="a-radio" name="q_list[2780]" type="radio" value="C"/>
+<span class="b-radio"></span> C.唯物论的反映论与唯心论的认识论的对立 
+                        </li>
+</label>
+<label>
+<li class="question_info" id="item3">
+<input class="a-radio" name="q_list[2780]" type="radio" value="D"/>
+<span class="b-radio"></span> D.能动的反映论与被动的反映论的对立
+                        </li>
+</label>
+<div style="font-size: 18px;">
+                        您已选 C                        <span class="text-success"> √ 正确</span>
+</div>
+</ul>, <ul class="list-unstyled question" id="question5">
+<li class="question_title"><font color="#006600">[单项选择题]</font>
+<strong> 第 5 题 、</strong>一种认识是不是真理，要看它                    </li>
+<label>
+<li class="question_info" id="item4">
+<input class="a-radio" name="q_list[2787]" type="radio" value="A"/>
+<span class="b-radio"></span> A.能否满足人的需要 
+                        </li>
+</label>
+<label>
+<li class="question_info" id="item4">
+<input class="a-radio" name="q_list[2787]" type="radio" value="B"/>
+<span class="b-radio"></span> B.能否被多数人认同
+                        </li>
+</label>
+<label>
+<li class="question_info" id="item4">
+<input class="a-radio" name="q_list[2787]" type="radio" value="C"/>
+<span class="b-radio"></span> C.能否付诸实际行动    
+                        </li>
+</label>
+<label>
+<li class="question_info" id="item4">
+<input class="a-radio" name="q_list[2787]" type="radio" value="D"/>
+<span class="b-radio"></span> D.能否在实践中达到预期效果
+                        </li>
+</label>
+<div style="font-size: 18px;">
+                        您已选 D                        <span class="text-success"> √ 正确</span>
+</div>
+</ul>, <ul class="list-unstyled question" id="question6">
+<li class="question_title"><font color="#006600">[单项选择题]</font>
+<strong> 第 6 题 、</strong>下列各项正确说明判断一种观点的是非对错标准的是                    </li>
+<label>
+<li class="question_info" id="item5">
+<input class="a-radio" name="q_list[2791]" type="radio" value="A"/>
+<span class="b-radio"></span> A.以伟人之是非为是非   
+                        </li>
+</label>
+<label>
+<li class="question_info" id="item5">
+<input class="a-radio" name="q_list[2791]" type="radio" value="B"/>
+<span class="b-radio"></span> B.以吾心之是非为是非
+                        </li>
+</label>
+<label>
+<li class="question_info" id="item5">
+<input class="a-radio" name="q_list[2791]" type="radio" value="C"/>
+<span class="b-radio"></span> C.以众人的意见定是非  
+                        </li>
+</label>
+<label>
+<li class="question_info" id="item5">
+<input class="a-radio" name="q_list[2791]" type="radio" value="D"/>
+<span class="b-radio"></span> D.以实践中是否达到预想目的定是非
+                        </li>
+</label>
+<div style="font-size: 18px;">
+                        您已选 D                        <span class="text-success"> √ 正确</span>
+</div>
+</ul>, <ul class="list-unstyled question" id="question7">
+<li class="question_title"><font color="#006600">[单项选择题]</font>
+<strong> 第 7 题 、</strong>真理是有价值的，说的是                    </li>
+<label>
+<li class="question_info" id="item6">
+<input class="a-radio" name="q_list[2797]" type="radio" value="A"/>
+<span class="b-radio"></span> A.真理是客观的   
+                        </li>
+</label>
+<label>
+<li class="question_info" id="item6">
+<input class="a-radio" name="q_list[2797]" type="radio" value="B"/>
+<span class="b-radio"></span> B.真理是发展的  
+                        </li>
+</label>
+<label>
+<li class="question_info" id="item6">
+<input class="a-radio" name="q_list[2797]" type="radio" value="C"/>
+<span class="b-radio"></span> C.真理能满足人的需要 
+                        </li>
+</label>
+<label>
+<li class="question_info" id="item6">
+<input class="a-radio" name="q_list[2797]" type="radio" value="D"/>
+<span class="b-radio"></span> D.有用的就是真理
+                        </li>
+</label>
+<div style="font-size: 18px;">
+                        您已选 C                        <span class="text-success"> √ 正确</span>
+</div>
+</ul>, <ul class="list-unstyled question" id="question8">
+<li class="question_title"><font color="#006600">[单项选择题]</font>
+<strong> 第 8 题 、</strong>认识之所以能够不断地得到发展，其根本原因就在于                    </li>
+<label>
+<li class="question_info" id="item7">
+<input class="a-radio" name="q_list[2801]" type="radio" value="A"/>
+<span class="b-radio"></span> A.科学家们不断地发明创造    
+                        </li>
+</label>
+<label>
+<li class="question_info" id="item7">
+<input class="a-radio" name="q_list[2801]" type="radio" value="B"/>
+<span class="b-radio"></span> B.自然科学和社会科学的不断发展与结合
+                        </li>
+</label>
+<label>
+<li class="question_info" id="item7">
+<input class="a-radio" name="q_list[2801]" type="radio" value="C"/>
+<span class="b-radio"></span> C.社会实践的需要      
+                        </li>
+</label>
+<label>
+<li class="question_info" id="item7">
+<input class="a-radio" name="q_list[2801]" type="radio" value="D"/>
+<span class="b-radio"></span> D.人们追求知识的愿望
+                        </li>
+</label>
+<div style="font-size: 18px;">
+                        您已选 C                        <span class="text-success"> √ 正确</span>
+</div>
+</ul>, <ul class="list-unstyled question" id="question9">
+<li class="question_title"><font color="#006600">[单项选择题]</font>
+<strong> 第 9 题 、</strong>相对真理是指                    </li>
+<label>
+<li class="question_info" id="item8">
+<input class="a-radio" name="q_list[2806]" type="radio" value="A"/>
+<span class="b-radio"></span> A.不含有绝对性质的真理
+                        </li>
+</label>
+<label>
+<li class="question_info" id="item8">
+<input class="a-radio" name="q_list[2806]" type="radio" value="B"/>
+<span class="b-radio"></span> B.包含有错误因素的真理
+                        </li>
+</label>
+<label>
+<li class="question_info" id="item8">
+<input class="a-radio" name="q_list[2806]" type="radio" value="C"/>
+<span class="b-radio"></span> C.人们在一定条件下对客观事物及其规律的正确认识总是有限的
+                        </li>
+</label>
+<label>
+<li class="question_info" id="item8">
+<input class="a-radio" name="q_list[2806]" type="radio" value="D"/>
+<span class="b-radio"></span> D.暂时正确的真理
+                        </li>
+</label>
+<div style="font-size: 18px;">
+
+                        您已选 C                        <span class="text-danger"><small><em></em></small> X 错误</span>
+    <br>正确答案： <span class="text-danger"> <strong>D</strong> </span>
+    </br>
+    </div>
+</ul>, <ul class="list-unstyled question" id="question10">
+<li class="question_title"><font color="#006600">[单项选择题]</font>
+<strong> 第 10 题 、</strong>法国科学家路易·巴斯德说：“在观察事物之际，机遇偏爱有准备的头脑。”这句话强调                    </li>
+<label>
+<li class="question_info" id="item9">
+<input class="a-radio" name="q_list[2809]" type="radio" value="A"/>
+<span class="b-radio"></span> A.人们对每一件事情都要细心观察 
+                        </li>
+</label>
+<label>
+<li class="question_info" id="item9">
+<input class="a-radio" name="q_list[2809]" type="radio" value="B"/>
+<span class="b-radio"></span> B.人们在认识事物时要有理性的指导
+                        </li>
+</label>
+<label>
+<li class="question_info" id="item9">
+<input class="a-radio" name="q_list[2809]" type="radio" value="C"/>
+<span class="b-radio"></span> C.人们获得感性经验的重要性   
+                        </li>
+</label>
+<label>
+<li class="question_info" id="item9">
+<input class="a-radio" name="q_list[2809]" type="radio" value="D"/>
+<span class="b-radio"></span> D.人们要充分发挥主观能动性
+                        </li>
+</label>
+<div style="font-size: 18px;">
+                        您已选 B                        <span class="text-success"> √ 正确</span>
+</div>
+</ul>, <ul class="list-unstyled question" id="question11">
+<li class="question_title"><font color="#006600">[多项选择题]</font>
+<strong> 第 11 题 、</strong>下列各项属于实践对认识的决定作用的有                    </li>
+<label>
+<li class="question_info" id="item0">
+<input class="a-radio" name="q_list[2811][]" type="checkbox" value="A"/>
+<span class="b-radio"></span> A.实践产生了认识的需要    
+                        </li>
+</label>
+<label>
+<li class="question_info" id="item0">
+<input class="a-radio" name="q_list[2811][]" type="checkbox" value="B"/>
+<span class="b-radio"></span> B.实践为认识提供了可能
+                        </li>
+</label>
+<label>
+<li class="question_info" id="item0">
+<input class="a-radio" name="q_list[2811][]" type="checkbox" value="C"/>
+<span class="b-radio"></span> C.实践是检验认识是否具有真理性的唯一标准 
+                        </li>
+</label>
+<label>
+<li class="question_info" id="item0">
+<input class="a-radio" name="q_list[2811][]" type="checkbox" value="D"/>
+<span class="b-radio"></span> D.实践使认识得以产生和发展
+                        </li>
+</label>
+<div style="font-size: 18px;">
+                        您已选 A,B,C,D                        <span class="text-success"> √ 正确</span>
+</div>
+</ul>, <ul class="list-unstyled question" id="question12">
+<li class="question_title"><font color="#006600">[多项选择题]</font>
+<strong> 第 12 题 、</strong>下列各项属于感性认识的形式的有                    </li>
+<label>
+<li class="question_info" id="item1">
+<input class="a-radio" name="q_list[2815][]" type="checkbox" value="A"/>
+<span class="b-radio"></span> A.感觉  
+                        </li>
+</label>
+<label>
+<li class="question_info" id="item1">
+<input class="a-radio" name="q_list[2815][]" type="checkbox" value="B"/>
+<span class="b-radio"></span> B.概念   
+                        </li>
+</label>
+<label>
+<li class="question_info" id="item1">
+<input class="a-radio" name="q_list[2815][]" type="checkbox" value="C"/>
+<span class="b-radio"></span> C.知觉 
+                        </li>
+</label>
+<label>
+<li class="question_info" id="item1">
+<input class="a-radio" name="q_list[2815][]" type="checkbox" value="D"/>
+<span class="b-radio"></span> D.表像  
+                        </li>
+</label>
+<div style="font-size: 18px;">
+                        您已选 A,C,D                        <span class="text-success"> √ 正确</span>
+</div>
+</ul>, <ul class="list-unstyled question" id="question13">
+<li class="question_title"><font color="#006600">[多项选择题]</font>
+<strong> 第 13 题 、</strong>割裂感性认识和理性认识的联系，会导致                    </li>
+<label>
+<li class="question_info" id="item2">
+<input class="a-radio" name="q_list[2819][]" type="checkbox" value="A"/>
+<span class="b-radio"></span> A.经验论的错误                   
+                        </li>
+</label>
+<label>
+<li class="question_info" id="item2">
+<input class="a-radio" name="q_list[2819][]" type="checkbox" value="B"/>
+<span class="b-radio"></span> B.唯理论的错误
+                        </li>
+</label>
+<label>
+<li class="question_info" id="item2">
+<input class="a-radio" name="q_list[2819][]" type="checkbox" value="C"/>
+<span class="b-radio"></span> C.实际工作中的经验主义错误
+                        </li>
+</label>
+<label>
+<li class="question_info" id="item2">
+<input class="a-radio" name="q_list[2819][]" type="checkbox" value="D"/>
+<span class="b-radio"></span> D.实际工作中的教条主义错误
+                        </li>
+</label>
+<div style="font-size: 18px;">
+                        您已选 A,B,C,D                        <span class="text-success"> √ 正确</span>
+</div>
+</ul>, <ul class="list-unstyled question" id="question14">
+<li class="question_title"><font color="#006600">[多项选择题]</font>
+<strong> 第 14 题 、</strong>从理性认识到实践的飞跃比从实践到认识的飞跃更重要，这是因为                    </li>
+<label>
+<li class="question_info" id="item3">
+<input class="a-radio" name="q_list[2821][]" type="checkbox" value="A"/>
+<span class="b-radio"></span> A.认识的真正任务在于揭示事物的本质   
+                        </li>
+</label>
+<label>
+<li class="question_info" id="item3">
+<input class="a-radio" name="q_list[2821][]" type="checkbox" value="B"/>
+<span class="b-radio"></span> B.认识的目的在于实现对客观世界的改造
+                        </li>
+</label>
+<label>
+<li class="question_info" id="item3">
+<input class="a-radio" name="q_list[2821][]" type="checkbox" value="C"/>
+<span class="b-radio"></span> C.从理性认识到实践的飞跃可以使认识得到检验
+                        </li>
+</label>
+<label>
+<li class="question_info" id="item3">
+<input class="a-radio" name="q_list[2821][]" type="checkbox" value="D"/>
+<span class="b-radio"></span> D.从理性认识到实践的飞跃可以使认识得到丰富和发展
+                        </li>
+</label>
+<div style="font-size: 18px;">
+                        您已选 B,C,D                        <span class="text-success"> √ 正确</span>
+</div>
+</ul>, <ul class="list-unstyled question" id="question15">
+<li class="question_title"><font color="#006600">[多项选择题]</font>
+<strong> 第 15 题 、</strong>一个正确的认识常常不是一次完成的，而是要经过由实践到认识、再由认识到实践的多                    </li>
+<label>
+<li class="question_info" id="item4">
+<input class="a-radio" name="q_list[2822][]" type="checkbox" value="A"/>
+<span class="b-radio"></span> A.客观事物是多种矛盾组成的复杂统一体          
+                        </li>
+</label>
+<label>
+<li class="question_info" id="item4">
+<input class="a-radio" name="q_list[2822][]" type="checkbox" value="B"/>
+<span class="b-radio"></span> B.事物的矛盾有个展开和发展的过程
+                        </li>
+</label>
+<label>
+<li class="question_info" id="item4">
+<input class="a-radio" name="q_list[2822][]" type="checkbox" value="C"/>
+<span class="b-radio"></span> C.人的认识受社会历史条件和科学技术条件的限制
+                        </li>
+</label>
+<label>
+<li class="question_info" id="item4">
+<input class="a-radio" name="q_list[2822][]" type="checkbox" value="D"/>
+<span class="b-radio"></span> D.认识受主体认识能力和实践范围的限制
+                        </li>
+</label>
+<div style="font-size: 18px;">
+                        您已选 A,B,C,D                        <span class="text-success"> √ 正确</span>
+</div>
+</ul>, <ul class="list-unstyled question" id="question16">
+<li class="question_title"><font color="#006600">[多项选择题]</font>
+<strong> 第 16 题 、</strong>下列各项属于党的思想路线的内容的有                    </li>
+<label>
+<li class="question_info" id="item5">
+<input class="a-radio" name="q_list[3949][]" type="checkbox" value="A"/>
+<span class="b-radio"></span> A.一切从实际出发    
+                        </li>
+</label>
+<label>
+<li class="question_info" id="item5">
+<input class="a-radio" name="q_list[3949][]" type="checkbox" value="B"/>
+<span class="b-radio"></span> B.理论联系实际
+                        </li>
+</label>
+<label>
+<li class="question_info" id="item5">
+<input class="a-radio" name="q_list[3949][]" type="checkbox" value="C"/>
+<span class="b-radio"></span> C.实事求是         
+                        </li>
+</label>
+<label>
+<li class="question_info" id="item5">
+<input class="a-radio" name="q_list[3949][]" type="checkbox" value="D"/>
+<span class="b-radio"></span> D.在实践中检验真理和发展真理
+                        </li>
+</label>
+<div style="font-size: 18px;">
+                        您已选 C,D                        <span class="text-danger"><small><em></em></small> X 错误</span>
+<br/>正确答案： <span class="text-danger"> <strong>A,B,C,D</strong> </span>
+</div>
+</ul>, <ul class="list-unstyled question" id="question17">
+<li class="question_title"><font color="#006600">[多项选择题]</font>
+<strong> 第 17 题 、</strong>判断一个认识是否为真理，就看                    </li>
+<label>
+<li class="question_info" id="item6">
+<input class="a-radio" name="q_list[3950][]" type="checkbox" value="A"/>
+<span class="b-radio"></span> A.它是否有用        
+                        </li>
+</label>
+<label>
+<li class="question_info" id="item6">
+<input class="a-radio" name="q_list[3950][]" type="checkbox" value="B"/>
+<span class="b-radio"></span> B.在它面前是否人人平等
+                        </li>
+</label>
+<label>
+<li class="question_info" id="item6">
+<input class="a-radio" name="q_list[3950][]" type="checkbox" value="C"/>
+<span class="b-radio"></span> C.它是否与客观实际相符合
+                        </li>
+</label>
+<label>
+<li class="question_info" id="item6">
+<input class="a-radio" name="q_list[3950][]" type="checkbox" value="D"/>
+<span class="b-radio"></span> D.它是否经得起实践的检验
+                        </li>
+</label>
+<div style="font-size: 18px;">
+                        您已选 C,D                        <span class="text-success"> √ 正确</span>
+</div>
+</ul>, <ul class="list-unstyled question" id="question18">
+<li class="question_title"><font color="#006600">[多项选择题]</font>
+<strong> 第 18 题 、</strong>实践能检验认识是否具有真理性，是因为：                    </li>
+<label>
+<li class="question_info" id="item7">
+<input class="a-radio" name="q_list[3955][]" type="checkbox" value="A"/>
+<span class="b-radio"></span> A.实践是把主观和客观联系起来的桥梁
+                        </li>
+</label>
+<label>
+<li class="question_info" id="item7">
+<input class="a-radio" name="q_list[3955][]" type="checkbox" value="B"/>
+<span class="b-radio"></span> B.只有实践能把理论同客观现实联系起来，加以对照、比较
+                        </li>
+</label>
+<label>
+<li class="question_info" id="item7">
+<input class="a-radio" name="q_list[3955][]" type="checkbox" value="C"/>
+<span class="b-radio"></span> C.实践能证明某一认识是否对人有用   
+                        </li>
+</label>
+<label>
+<li class="question_info" id="item7">
+<input class="a-radio" name="q_list[3955][]" type="checkbox" value="D"/>
+<span class="b-radio"></span> D.实践是人有目的的活动
+                        </li>
+</label>
+<div style="font-size: 18px;">
+                        您已选 A,B                        <span class="text-success"> √ 正确</span>
+</div>
+</ul>, <ul class="list-unstyled question" id="question19">
+<li class="question_title"><font color="#006600">[多项选择题]</font>
+<strong> 第 19 题 、</strong>对同一句格言，年轻人所理解的意义，总没有饱经风霜的老年人所理解得广泛和深刻。                    </li>
+<label>
+<li class="question_info" id="item8">
+<input class="a-radio" name="q_list[3956][]" type="checkbox" value="A"/>
+<span class="b-radio"></span> A.认识的深刻性与知识的积累有密切联系 
+                        </li>
+</label>
+<label>
+<li class="question_info" id="item8">
+<input class="a-radio" name="q_list[3956][]" type="checkbox" value="B"/>
+<span class="b-radio"></span> B.在经验的积累中加深认识
+                        </li>
+</label>
+<label>
+<li class="question_info" id="item8">
+<input class="a-radio" name="q_list[3956][]" type="checkbox" value="C"/>
+<span class="b-radio"></span> C.认识的深刻性与经验的多少在一定意义上成正比例
+                        </li>
+</label>
+<label>
+<li class="question_info" id="item8">
+<input class="a-radio" name="q_list[3956][]" type="checkbox" value="D"/>
+<span class="b-radio"></span> D老年人的认识在一切方面都超过青年人的认识
+                        </li>
+</label>
+<div style="font-size: 18px;">
+                        您已选 A,B,C                        <span class="text-success"> √ 正确</span>
+</div>
+</ul>, <ul class="list-unstyled question" id="question20">
+<li class="question_title"><font color="#006600">[多项选择题]</font>
+<strong> 第 20 题 、</strong>在实践和认识的关系中                    </li>
+<label>
+<li class="question_info" id="item9">
+<input class="a-radio" name="q_list[3959][]" type="checkbox" value="A"/>
+<span class="b-radio"></span> A.实践是认识的基础  
+                        </li>
+</label>
+<label>
+<li class="question_info" id="item9">
+<input class="a-radio" name="q_list[3959][]" type="checkbox" value="B"/>
+<span class="b-radio"></span> B.实践是认识的归宿
+                        </li>
+</label>
+<label>
+<li class="question_info" id="item9">
+<input class="a-radio" name="q_list[3959][]" type="checkbox" value="C"/>
+<span class="b-radio"></span> C.实践对认识起决定作用 
+                        </li>
+</label>
+<label>
+<li class="question_info" id="item9">
+<input class="a-radio" name="q_list[3959][]" type="checkbox" value="D"/>
+<span class="b-radio"></span> D.认识对实践有指导作用
+                        </li>
+</label>
+<div style="font-size: 18px;">
+                        您已选 A,B,C,D                        <span class="text-success"> √ 正确</span>
+</div>
+</ul>, <ul class="list-unstyled question" id="question21">
+<li class="question_title"><font color="#006600">[判断题]</font>
+<strong> 第 21 题 、</strong>旧唯物主义认识论的严重缺陷在于不承认世界的可知性。                    </li>
+<label>
+<li class="question_info" id="item0">
+<input class="a-radio" name="q_list[3961]" type="radio" value="A"/>
+<span class="b-radio"></span> A.对
+                        </li>
+</label>
+<label>
+<li class="question_info" id="item0">
+<input class="a-radio" name="q_list[3961]" type="radio" value="B"/>
+<span class="b-radio"></span> B.错
+                        </li>
+</label>
+<div style="font-size: 18px;">
+                        您已选 B                        <span class="text-success"> √ 正确</span>
+</div>
+</ul>, <ul class="list-unstyled question" id="question22">
+<li class="question_title"><font color="#006600">[判断题]</font>
+<strong> 第 22 题 、</strong>在认识真理的思想内容客观性的同时，还必须正确认识真理形式的主观性。                    </li>
+<label>
+<li class="question_info" id="item1">
+<input class="a-radio" name="q_list[3964]" type="radio" value="A"/>
+<span class="b-radio"></span> A.对
+                        </li>
+</label>
+<label>
+<li class="question_info" id="item1">
+<input class="a-radio" name="q_list[3964]" type="radio" value="B"/>
+<span class="b-radio"></span> B.错
+                        </li>
+</label>
+<div style="font-size: 18px;">
+                        您已选 A                        <span class="text-success"> √ 正确</span>
+</div>
+</ul>, <ul class="list-unstyled question" id="question23">
+<li class="question_title"><font color="#006600">[判断题]</font>
+<strong> 第 23 题 、</strong>实践的直接现实性的特点，是作为检验真理标准的主要根据之一。                    </li>
+<label>
+<li class="question_info" id="item2">
+<input class="a-radio" name="q_list[3965]" type="radio" value="A"/>
+<span class="b-radio"></span> A.对
+                        </li>
+</label>
+<label>
+<li class="question_info" id="item2">
+<input class="a-radio" name="q_list[3965]" type="radio" value="B"/>
+<span class="b-radio"></span> B.错
+                        </li>
+</label>
+<div style="font-size: 18px;">
+                        您已选 A                        <span class="text-success"> √ 正确</span>
+</div>
+</ul>, <ul class="list-unstyled question" id="question24">
+<li class="question_title"><font color="#006600">[判断题]</font>
+<strong> 第 24 题 、</strong>任何具体的实践活动对于真理的检验作用，都会由于历史条件的种种限制而表现出某种相对性、有限性和不确定性的特点。                    </li>
+<label>
+<li class="question_info" id="item3">
+<input class="a-radio" name="q_list[3966]" type="radio" value="A"/>
+<span class="b-radio"></span> A.对
+                        </li>
+</label>
+<label>
+<li class="question_info" id="item3">
+<input class="a-radio" name="q_list[3966]" type="radio" value="B"/>
+<span class="b-radio"></span> B.错
+                        </li>
+</label>
+<div style="font-size: 18px;">
+                        您已选 A                        <span class="text-success"> √ 正确</span>
+</div>
+</ul>, <ul class="list-unstyled question" id="question25">
+<li class="question_title"><font color="#006600">[判断题]</font>
+<strong> 第 25 题 、</strong>价值评价是“公说公有理，婆说婆有理”，纯粹是一种没有任何客观标准的评价。                    </li>
+<label>
+<li class="question_info" id="item4">
+<input class="a-radio" name="q_list[3968]" type="radio" value="A"/>
+<span class="b-radio"></span> A.对
+                        </li>
+</label>
+<label>
+<li class="question_info" id="item4">
+<input class="a-radio" name="q_list[3968]" type="radio" value="B"/>
+<span class="b-radio"></span> B.错
+                        </li>
+</label>
+<div style="font-size: 18px;">
+                        您已选 B                        <span class="text-success"> √ 正确</span>
+</div>
+</ul>, <ul class="list-unstyled question" id="question26">
+<li class="question_title"><font color="#006600">[判断题]</font>
+<strong> 第 26 题 、</strong>坚持真理尺度和价值尺度的辩证统一，要求我们在实践中必须坚持和弘扬科学精神和人文精神。                    </li>
+<label>
+<li class="question_info" id="item5">
+<input class="a-radio" name="q_list[3969]" type="radio" value="A"/>
+<span class="b-radio"></span> A.对
+                        </li>
+</label>
+<label>
+<li class="question_info" id="item5">
+<input class="a-radio" name="q_list[3969]" type="radio" value="B"/>
+<span class="b-radio"></span> B.错
+                        </li>
+</label>
+<div style="font-size: 18px;">
+                        您已选 A                        <span class="text-success"> √ 正确</span>
+</div>
+</ul>, <ul class="list-unstyled question" id="question27">
+<li class="question_title"><font color="#006600">[判断题]</font>
+<strong> 第 27 题 、</strong>逻辑证明是实践标准以外的又一个检验真理的标准。                    </li>
+<label>
+<li class="question_info" id="item6">
+<input class="a-radio" name="q_list[3973]" type="radio" value="A"/>
+<span class="b-radio"></span> A.对
+                        </li>
+</label>
+<label>
+<li class="question_info" id="item6">
+<input class="a-radio" name="q_list[3973]" type="radio" value="B"/>
+<span class="b-radio"></span> B.错
+                        </li>
+</label>
+<div style="font-size: 18px;">
+                        您已选 B                        <span class="text-success"> √ 正确</span>
+</div>
+</ul>, <ul class="list-unstyled question" id="question28">
+<li class="question_title"><font color="#006600">[判断题]</font>
+<strong> 第 28 题 、</strong>哲学上的“价值”是指具有特定属性的客体对于主体需要的意义。                    </li>
+<label>
+<li class="question_info" id="item7">
+<input class="a-radio" name="q_list[3976]" type="radio" value="A"/>
+<span class="b-radio"></span> A.对
+                        </li>
+</label>
+<label>
+<li class="question_info" id="item7">
+<input class="a-radio" name="q_list[3976]" type="radio" value="B"/>
+<span class="b-radio"></span> B.错
+                        </li>
+</label>
+<div style="font-size: 18px;">
+                        您已选 A                        <span class="text-success"> √ 正确</span>
+</div>
+</ul>, <ul class="list-unstyled question" id="question29">
+<li class="question_title"><font color="#006600">[判断题]</font>
+<strong> 第 29 题 、</strong>真理和价值在认识和实践中是相互制约、相互引导、相互促进的。                    </li>
+<label>
+<li class="question_info" id="item8">
+<input class="a-radio" name="q_list[4385]" type="radio" value="A"/>
+<span class="b-radio"></span> A.对
+                        </li>
+</label>
+<label>
+<li class="question_info" id="item8">
+<input class="a-radio" name="q_list[4385]" type="radio" value="B"/>
+<span class="b-radio"></span> B.错
+                        </li>
+</label>
+<div style="font-size: 18px;">
+                        您已选 A                        <span class="text-success"> √ 正确</span>
+</div>
+</ul>, <ul class="list-unstyled question" id="question30">
+<li class="question_title"><font color="#006600">[判断题]</font>
+<strong> 第 30 题 、</strong>毛泽东说：“马克思主义哲学认为十分重要的问题，不在于懂得了客观世界的规律性，因而能够解释世界，而在于拿了这种对于客观规律性的认识去能动地改造世界。”这段话强调的是认识的任务不仅在于解释世界，更重要的是改造世界。                    </li>
+<label>
+<li class="question_info" id="item9">
+<input class="a-radio" name="q_list[4387]" type="radio" value="A"/>
+<span class="b-radio"></span> A.对
+                        </li>
+</label>
+<label>
+<li class="question_info" id="item9">
+<input class="a-radio" name="q_list[4387]" type="radio" value="B"/>
+<span class="b-radio"></span> B.错
+                        </li>
+</label>
+<div style="font-size: 18px;">
+                        您已选 A                        <span class="text-success"> √ 正确</span>
+</div>
+</ul>]
