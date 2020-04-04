@@ -1,0 +1,31 @@
+$def with (exams)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>智者</title>
+</head>
+<body>
+    <ul>
+    $for exam in exams:
+        <li><a href="javascript:void(0)" onclick="getAnswer($exam.examId)">$exam.title</a></li>
+    </ul>
+    <a href="javascript:void(0)" onclick="downloadAll()">全部下载（只包括已答部分）</a>
+
+    <script src="/static/tools.js"></script>
+    <script>
+        getAnswer = (examId) => {
+            sessionId = localStorage.getItem('sessionId')
+            url = '/getAnswer?sessionId='+sessionId+'&examId=' + examId
+            location.href = url
+        }
+
+        downloadAll = () => {
+            sessionId = localStorage.getItem('sessionId')
+            url = '/getAllAnswer?sessionId='+sessionId
+            location.href = url
+        }
+    </script>
+</body>
+</html>

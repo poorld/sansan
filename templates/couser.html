@@ -1,0 +1,24 @@
+$def with (cousers)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>选择课程</title>
+</head>
+<body>
+    <ul>
+    $for couser in cousers:
+        <li><a href="javascript:void(0)" onclick="getPage($couser.couserId)">$couser.couserName</a></li>
+    </ul>
+
+    <script src="/static/tools.js"></script>
+    <script>
+        getPage = (couserId) => {
+            sessionId = localStorage.getItem('sessionId')
+            url = '/getPage?sessionId='+sessionId+'&couserId=' + couserId
+            location.href = url
+        }
+    </script>
+</body>
+</html>

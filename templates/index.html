@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>登陆</title>
+</head>
+<body>
+    <div style="text-align: center;">
+        <div id="msg"></div>
+        学号:<input name="username" type="text" /> <br />
+        密码:<input name="password" type="password" /> <br />
+        <input type="button" value="登陆" onclick="login()" />
+    </div>
+
+    <div style="width: 400px;margin: 50px auto;">
+        马克思恩格斯为无产阶级的革命奋斗了一生,他们的斗争是卓有成效的.从在伦敦办莱茵报到巨人逝世,无不再为全世界无产阶级的利益鞠躬尽瘁!马克思作为马克思主义的创始人,他不仅以自己的毕生心血为人类留下了一座巨大的思想理论宝库,同时也在治学方面为人们树立了光辉榜样.
+    </div>
+
+    <script src="/static/tools.js"></script>
+    <script>
+        login = () => {
+            username = document.getElementsByName('username')[0].value
+            password = document.getElementsByName('password')[0].value
+
+                let formData = new FormData()
+                formData.append('username', username)
+                formData.append('password', password)
+                post('/login', formData, (result) => {
+                    if (result.success === true){
+                        localStorage.setItem('sessionId', result.data)
+                        url = '/selectcouser?sessionId=' + result.data
+                        location.href = url
+                    }else{
+                        document.getElementById('msg').innerHTML = result.data
+                    }
+                })
+        }
+    </script>
+</body>
+</html>
